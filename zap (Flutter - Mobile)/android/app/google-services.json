@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566341017166",
+    "firebase_url": "https://chat-zap-zap-flutter.firebaseio.com",
+    "project_id": "chat-zap-zap-flutter",
+    "storage_bucket": "chat-zap-zap-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566341017166:android:0d379dc5f1be9961ed6d1f",
+        "android_client_info": {
+          "package_name": "br.com.flpoliveira.zap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566341017166-ndred0vuq4o01oideucfk06niegevass.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.flpoliveira.zap",
+            "certificate_hash": "bc5f2ea0e90b5f23d1c430985d8bc9ad9ab88277"
+          }
+        },
+        {
+          "client_id": "566341017166-il9n5rnjem4rgp0sce8dkg6neb3hjrp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2zC_7HltRRdswKerLWsQ4TzVgDyXyBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566341017166-il9n5rnjem4rgp0sce8dkg6neb3hjrp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
